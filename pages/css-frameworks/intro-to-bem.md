@@ -120,10 +120,10 @@ In this task you will practise using the BEM naming convention.
 
 Download the XD file from [this repo](https://github.com/NoroffFEU/introduction-to-bem-lesson-task).
 
-Process
+### Process
 
     Code the design using BEM and (optionally) Sass.
 
-Example answer
+### Example answer
 
 You can find an example solution in the [answer branch](https://github.com/NoroffFEU/introduction-to-bem-lesson-task/tree/answer) of the repo.
